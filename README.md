@@ -1,3 +1,4 @@
+
 # ReduxSimpleStarter
 
 ###Getting Started###
@@ -21,3 +22,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+# youtubesearch
+Simple API for custom youtube searches. Pulls from Google's Youtube API.
